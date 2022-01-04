@@ -1,8 +1,2 @@
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>I got to have hands on experience on:
-<li>Python
-<li>Machine Learning
-<li>Tensorflow
+<h1>About</h1>
+I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI. This project uses boston housing datasets which basically contains information about different houses in Boston. We have accessed this data from the scikit-learn library. To predict the value of prices of the house using the given features a linear regression model has been used.
